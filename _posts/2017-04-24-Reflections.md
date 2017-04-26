@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reflections
-bigimg: img/lotus.jpg
+bigimg: /img/lotus.jpg
 ---
 
 # Mental dis-ease and healthcare:
