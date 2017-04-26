@@ -4,7 +4,7 @@ title: Reflections
 bigimg: img/lotus.jpg
 ---
 
-#Mental dis-ease and healthcare:
+# Mental dis-ease and healthcare:
 
 In our culture there is a palpable stigma regarding mental illness and the psychological, with a tendency to dismiss mental phenomena as just “in our heads”, “not real” or "imaginary". There is this idea that if there is no clear physical cause of symptoms then they must be "made up", or that nothing much can be done about it. When dealing with patients that present with symptoms of an anxious type, especially with concurrent symptoms that are often associated with anxiety disorders (such as accelerated heart rate, heart palpitations, difficulty breathing etc.) there is often a dilemma regarding diagnosis and treatment.
 
