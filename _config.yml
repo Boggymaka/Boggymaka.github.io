@@ -23,7 +23,6 @@ description: The healer's calling
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
   Gnosis Blog: "http://eternalgnosis.blogspot.com/"
   Resources: "https://drive.google.com/drive/folders/18SFJmceGoV3g_vv6niRjkV_f4feMPXsa?usp=sharing"
 
@@ -40,7 +39,7 @@ avatar: "/img/avatar-icon.png"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Bogdan Makartchuk
   email: "youremail@domain.com"
   facebook: yourname  # eg. daattali
   github: yourname    # eg. daattali
@@ -83,7 +82,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "naturopathic.life"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
@@ -204,5 +203,5 @@ prose:
 gems:
   - jekyll-paginate
 
-# Beautiful Jekyll / Dean Attali
+
 # 2fc73a3a967e97599c9763d05e564189
