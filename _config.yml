@@ -24,7 +24,7 @@ description: The healer's calling
 # List of links in the navigation bar
 navbar-links:
   Gnosis Blog: "http://eternalgnosis.blogspot.com/"
-  Resources: "https://drive.google.com/drive/folders/18SFJmceGoV3g_vv6niRjkV_f4feMPXsa?usp=sharing"
+  Herbal Monographs: "https://drive.google.com/drive/folders/18SFJmceGoV3g_vv6niRjkV_f4feMPXsa?usp=sharing"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
